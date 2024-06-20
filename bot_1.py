@@ -2,6 +2,7 @@ from tecnico import gen_pass
 from tecnico import flip_coin
 import discord
 
+print("hello world")
 # La variable intents almacena los privilegios del bot
 intents = discord.Intents.default()
 # Activar el privilegio de lectura de mensajes
